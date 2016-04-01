@@ -18,9 +18,9 @@
     [super viewDidLoad];
     
     
-    UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(100, 50, 100, 400)];
-    label.backgroundColor = [UIColor redColor];
-    [self.view addSubview:label];
+//    UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(100, 50, 100, 400)];
+//    label.backgroundColor = [UIColor redColor];
+//    [self.view addSubview:label];
     
     
     
